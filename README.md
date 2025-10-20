@@ -14,7 +14,7 @@ I love engineering intelligent systems, crafting scalable infrastructures, and e
 - 🔭 **Current Focus**: Building _SecondBrain_ (AI-powered content management system) & _Collaborative Excelidraw with AI_.  
 - 🚀 **Exploring**: Distributed architectures, Web3 integrations, and microservice-driven SaaS solutions.  
 - 🌱 **Learning**: Kubernetes, ArgoCD, Serverless Computing, and modern DevOps practices.  
-- 🎯 **Career Goals**: Contribute to **LFX**, **GSoC**, and **Hyperledger**, while developing scalable open-source systems.  
+- 🎯 **Career Goals**: Contribute to **LFX** and **GSoC**, while developing scalable open-source systems.  
 - 💬 **Ask Me About**: TypeScript, Go, Express.js, Prisma, Redis, Docker, or backend scaling strategies.  
 - ⚡ **Fun Fact**: I find joy in optimizing performance and creating products that feel *both human and fast.*
 
@@ -73,8 +73,7 @@ I love engineering intelligent systems, crafting scalable infrastructures, and e
 - 📧 [adityadubey0034@gmail.com](mailto:adityadubey0034@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-dubey-ba9a78288/)  
 - 🐙 [GitHub](https://github.com/git-push-aditya)  
-- 🐦 [Twitter](https://x.com/AdityaDtwt)  
-- 🌍 [Portfolio](https://secondbrain.notaditya.dev)
+- 🐦 [Twitter](https://x.com/AdityaDtwt)   
 
 ---
 
