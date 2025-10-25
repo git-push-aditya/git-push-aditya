@@ -15,7 +15,6 @@ A couple of things about me:
 - 🚀 Active on GitHub with multiple projects & repositories  
 - 💬 Ask me about **TypeScript, Go, Express.js, Prisma, Redis, Docker, or backend scaling**  
 - 📫 How to reach me: [adityadubey0034@gmail.com](mailto:adityadubey0034@gmail.com)  
-- 😏 Pronouns: He/Him  
 
 Thanks for visiting my profile page.
 
